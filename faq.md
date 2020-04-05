@@ -1,19 +1,24 @@
 # ESOP Frequently Asked Questions
 
-*A stock option gives you the opportunity, but not the obligation, to purchase a specific number of shares of your company’s 
-stock at a specific price for a specific period of time*
+*If you are not familiar with Stock Option plans in general, a stock option gives you the opportunity, but not the obligation, to purchase a specific number of shares of your company’s stock at a specific price for a specific period of time*
 
-## The DoiT plan is very unusual and I am curious as to what was the guide in setting up this specific plan?
-In general, what we had in mind when we worked this plan is to create a wealth opportunity for our employees, especially for people with senior roles such as yourself. Let me try to provide some guidance in regards to your questions:
+## The ESOP is different from other plans I had in the past and I am curious why?
+In general, what we had in mind when we worked this plan is to create a wealth opportunity for our employees.
 
 ## In the beginning of the document the shares are 0.001NIS but later it is 168.86$, why is that?
 The 0.001NIS is the [nominal price](https://www.quora.com/How-do-you-calculate-the-nominal-value-of-a-share) of the shares. This is a pretty meaningless number for our employees but it's required to be specified for accounting and tax reasons. The important number is $168.86$ which is the strike price. The strike price represents the discounted value you will be buying the shares at.
 
-## The grant agreement mentions certain number of shares. Can I know how much it's from how many total shares?
-Right now, every 100 shares constitute 0.01% ownership stake at the company. This number doesn't mean much and may change  in the future and hence we advise to focus on absolute number of shares rather than on percentages.
+## - How was the  strike price of $168.86 calculated?
+The strike price is equal to the share price at which Charlesbank made its investment; the strike price is set at this level so that employees are aligned with Charlesbank and share in the upside created together.
 
-## Why is the vesting period starting on April 1st and not at the date of starting work at DoiT?
-The plan was adopted by the company on March 28, 2020 and can't be 'backdated' to an earlier period. It's just illegal. 
+## Who is M.L.S Computer Company?
+This is the Israel shareholding parent company that owns 100% of all DoiT International's legal entities around the world.
+
+## The grant agreement mentions certain number of shares. Can I know the percentage of my ownership?
+Right now, every 100 shares constitute approximately 0.01% ownership stake at the company. This number doesn't mean much and may change in the future and hence we advise to focus on absolute number of shares rather than on percentages.
+
+## Why is the vesting period starting on April 1st and not at the date of starting work at the company?
+The plan was adopted by the company on March 28, 2020 and can't be 'backdated' to an earlier period. 
 
 ## Why is the vesting period 5 years and not the standard 4 years with one year cliff?
 Private equity firms typically have an investment horizon (hold period) of five years, which is why this is a five-year vesting schedule; if there is a sale transaction in a shorter time frame, the options vesting accelerates.  There is a range of vesting schedules (monthly, quarterly, semi-annual, annual, etc.) that are used for option plans, and Charlesbank (like many other private equity firms) standardizes on annual vesting.
@@ -35,3 +40,6 @@ If an exit event happens before the time-based or performance-based options vest
 
 ## Can you talk about taxes?
 For legal reasons, we can't provide you with tax advice. You will need to work with your own tax advisor. As a general note, we've spent a lot of time during the work on this plan to make it as tax efficient as possible for DoiT International employees. 
+
+## Does the plan allow for cashless exercising in the future, would the value of the options exceed the strike price?
+Net exercise of stock options is something the board of the company can approve for special circumstances.
