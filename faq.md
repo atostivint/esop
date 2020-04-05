@@ -2,13 +2,13 @@
 
 *If you are not familiar with Stock Option plans in general, a stock option gives you the opportunity, but not the obligation, to purchase a specific number of shares of your company’s stock at a specific price for a specific period of time*
 
-## The ESOP is different from other plans I had in the past and I am curious why?
+### The ESOP is different from other plans I had in the past and I am curious why?
 In general, what we had in mind when we worked this plan is to create a wealth opportunity for our employees.
 
 ## In the beginning of the document the shares are 0.001NIS but later it is 168.86$, why is that?
 The 0.001NIS is the [nominal price](https://www.quora.com/How-do-you-calculate-the-nominal-value-of-a-share) of the shares. This is a pretty meaningless number for our employees but it's required to be specified for accounting and tax reasons. The important number is $168.86$ which is the strike price. The strike price represents the discounted value you will be buying the shares at.
 
-## - How was the  strike price of $168.86 calculated?
+## How was the  strike price of $168.86 calculated?
 The strike price is equal to the share price at which Charlesbank made its investment; the strike price is set at this level so that employees are aligned with Charlesbank and share in the upside created together.
 
 ## Who is M.L.S Computer Company?
