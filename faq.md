@@ -2,6 +2,9 @@
 
 *If you are not familiar with Stock Option plans in general, a stock option gives you the opportunity, but not the obligation, to purchase a specific number of shares of your company’s stock at a specific price for a specific period of time*
 
+## IMPORTANT
+***This FAQ is a non-binding summary for convenience purposes only and the terms governing the options are included only in the Option Plan and Option Agreement (the "Governing Documents") which you advise our employees to review. In case of any contradiction between the Governing Documents and anything in the FAQ, the Governing Documents shall prevail.*** 
+
 ### The ESOP is different from other plans I had in the past and I am curious why?
 In general, what we had in mind when we worked this plan is to create a wealth opportunity for our employees.
 
@@ -39,7 +42,7 @@ This is being fixed. The reference is to [Exhibit A](https://l.doit-intl.com/opt
 If there is a sale transaction in a shorter than 5 years timeframe, the time based options vesting accelerates. If an exit event happens before the performance-based options vest, they won't be eligible to be exercised.
 
 ### What happens if I leave the company?
-If you decide to leave the company or your role is being terminated (unless for cause), 
+If you leave the company, generally, all unvested options at the time will terminate upon termination of employment. The vested options at that time, may be exercised by you within 4 months (unless for ISO). In extreme cases (such as death or disability), the vested options will be exercisable for 12 months. If your employment is terminated by the company for Cause – all options, vested or unvested, shall terminate. In addition, upon termination, the shares issuable to you upon exercise of your options are subject to a purchase option right by the Company or its shareholders for such shares fair market value at the time.
 
 ### Can you talk about taxes?
 For legal reasons, we can't provide you with tax advice. You will need to work with your own tax advisor. As a general note, we've spent a lot of time during the work on this plan to make it as tax efficient as possible for DoiT International employees. 
