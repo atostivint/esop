@@ -5,6 +5,9 @@
 ## IMPORTANT
 ***This FAQ is a non-binding summary for convenience purposes only and the terms governing the options are included only in the Option Plan and Option Agreement (the "Governing Documents") which you advise our employees to review. In case of any contradiction between the Governing Documents and anything in the FAQ, the Governing Documents shall prevail.*** 
 
+***Disclaimer :  All the responses to the Frequently Asked Questions mentioned herein and the provisions in this document  are subject to Board approval and terms and conditions of the "M.L.S Computer Services Limited-2019 Share Incentive Plan".***
+
+
 ### The ESOP is different from other plans I had in the past and I am curious why?
 In general, what we had in mind when we worked this plan is to create a wealth opportunity for our employees.
 
