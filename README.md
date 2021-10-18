@@ -6,6 +6,6 @@ Over the years, Employee Stock Option Plan at DoiT International undergone sever
 
 New employees (with ESOP benefits) will be enrolled into the latest revision of the Employee Stock Option Plan based on their start date.
 
-- [April 2020 Plan](https://google.com)
-- [May 2021 Plan](https://google.com)
-- [October 2021 Plan](https://google.com)
+- [April 2020 Plan](2020-04-plan.md)
+- [May 2021 Plan](2021-05-plan.md)
+- [October 2021 Plan](2021-10-plan.md)
