@@ -9,4 +9,8 @@ New employees (with ESOP benefits) will be enrolled into the latest revision of 
 - [April 2020 Plan](2020-04-plan.md)
 - [May 2021 Plan](2021-05-plan.md)
 - [October 2021 Plan](2021-10-plan.md)
-- [April 2022 Plan] 
+- [April 2022 Plan](2022-04-plan.md)
+
+See also:
+
+- [Stock Option Exercise Process](exercise-process.md)
