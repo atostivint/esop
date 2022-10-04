@@ -10,6 +10,7 @@ New employees (with ESOP benefits) will be enrolled into the latest revision of 
 - [May 2021 Plan](2021-05-plan.md)
 - [October 2021 Plan](2021-10-plan.md)
 - [April 2022 Plan](2022-04-plan.md)
+- [October 2022 Plan](2022-10-plan.md)
 
 See also:
 
